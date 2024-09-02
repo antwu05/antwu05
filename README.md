@@ -2,7 +2,7 @@
 
 <!--
 **antwu05/antwu05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Im Anthony Wu, a computer science student at the University of Adelaide and a Solution Architect at Docuworx Australia.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
